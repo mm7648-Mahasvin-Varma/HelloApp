@@ -4,7 +4,7 @@
  * - If names are provided, it displays "Hello, [name1], [name2], ..." to console.
  * If no names are provided, it will display "Hello, World!"
  * 
- * Author: Akshdeep Singh
+ * Author: MUDUNURI.MAHASVINVARMA
  * Version: 4.0
  * Since: UC1
  */
